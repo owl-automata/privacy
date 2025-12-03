@@ -14,10 +14,12 @@ All documents in this repository are publicly accessible and served through GitH
 ## Repository Structure
 
 privacy/
-├── app-name-1/
-│ └── index.md # Privacy Policy for App 1
-├── app-name-2/
-│ └── index.md # Privacy Policy for App 2
+├── orochi/
+│   └── index.md
+├── another-app/
+│   └── index.md
+└── ...
+
 
 Each `index.md` file contains the privacy policy specific to that application, including:
 - What data the app accesses  
