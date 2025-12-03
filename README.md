@@ -13,12 +13,14 @@ All documents in this repository are publicly accessible and served through GitH
 
 ## Repository Structure
 
+```text
 privacy/
 ├── orochi/
 │   └── index.md
 ├── another-app/
 │   └── index.md
 └── ...
+```
 
 
 Each `index.md` file contains the privacy policy specific to that application, including:
