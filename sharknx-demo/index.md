@@ -106,7 +106,7 @@ The most recent version will always be available at the public privacy URL.
 ## Demo Version Data Collection
 
 The SharKNX Demo app collects a unique device identifier to manage
-the 3-day trial period and prevent abuse. This identifier:
+the 10-day trial period and prevent abuse. This identifier:
 
 - Is a hashed fingerprint of your device
 - Cannot identify you personally
